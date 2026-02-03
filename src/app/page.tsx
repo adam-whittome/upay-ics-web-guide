@@ -82,5 +82,5 @@ export default function Home() {
       After this, changes in your Upay bookings may take multiple hours to propagate to your calendar, as calendars
       typically only check for changes at this time scale.
     </Text>
-  </CenteredColumn>
+  </CenteredColumn>;
 }

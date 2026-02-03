@@ -1,0 +1,2 @@
+:HL["/upay-ics-web-guide/_next/static/chunks/db30b8ef81f99883.css","style"]
+0:{"buildId":"uHajZlJbXsH-2n1vZOwWB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
